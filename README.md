@@ -15,6 +15,8 @@ MAMEUI ---> https://github.com/Robbbert/mameui
 
 WOLFMAME ---> https://github.com/mahlemiut/wolfmame/
 
+GROOVYMAME ---> https://github.com/antonioginer/GroovyMAME
+
 ARCADE ---> https://github.com/Robbbert/store1
 
 HBMAME ---> https://github.com/Robbbert/hbmame
