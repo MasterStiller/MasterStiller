@@ -24,3 +24,5 @@ HBMAME ---> https://github.com/Robbbert/hbmame
 FBNEO ---> https://github.com/finalburnneo/FBNeo
 
 MAME2003-PLUS-LIBRETRO ---> https://github.com/libretro/mame2003-plus-libretro
+
+MAME-LIBRETRO ---> https://github.com/libretro/mame
