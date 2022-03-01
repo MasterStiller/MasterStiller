@@ -9,6 +9,8 @@ MasterStiller/MasterStiller is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+ARCADE REPOSITORY
+
 MAME ---> https://github.com/mamedev
 
 MAMEUI ---> https://github.com/Robbbert/mameui
@@ -20,6 +22,8 @@ GROOVYMAME ---> https://github.com/antonioginer/GroovyMAME
 ARCADE ---> https://github.com/Robbbert/store1
 
 HBMAME ---> https://github.com/Robbbert/hbmame
+
+PSARCADEPLUS ---> https://github.com/Gaston900/PSARCADEPLUS
 
 FBNEO ---> https://github.com/finalburnneo/FBNeo
 
